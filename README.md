@@ -86,9 +86,9 @@ ID        Last Seen Camera  Last Seen Time
 - Optimize multi-camera synchronization.
 
 ## Sample Input Video
-![Demo](inputSample.gif)
+(inputSample.gif)
 
 ## Sample Output Video
-![Demo](outputSample.gif)
+(outputSample.gif)
 
 
